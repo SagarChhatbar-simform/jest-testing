@@ -1,0 +1,20 @@
+{
+
+  "scripts": {
+
+    "test": "jest"
+
+  },
+
+  "author": "",
+
+  "license": "ISC",
+
+  "devDependencies": {
+
+    "jest": "^29.0.2"
+
+  }
+
+}
+
