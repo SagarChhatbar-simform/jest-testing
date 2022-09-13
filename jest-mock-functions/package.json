@@ -1,0 +1,17 @@
+{
+  "name": "jest-mock-functions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.0.3"
+  },
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
